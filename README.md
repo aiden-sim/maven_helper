@@ -1,4 +1,4 @@
-### Visual Studio를 사용할 때 nuget이라는 패키지 관리유틸을 사용했는데 intellij에는 비슷한 기능이 없을까 찾아 보았다.
+- Visual Studio를 사용할 때 nuget이라는 패키지 관리유틸을 사용했는데 intellij에는 비슷한 기능이 없을까 찾아 보았다.
 
 ## intellij mavne helper plugin 예제
 - download : https://plugins.jetbrains.com/plugin/7179-maven-helper
